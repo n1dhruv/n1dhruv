@@ -1,60 +1,21 @@
-# Hi, I'm Dhruv 👋  
+<h1>Hello, I'm Dhruv Sharma</h1>
+<h4>Software Developer and Open-source Contributer</h4>
 
-I'm a B.Tech student at **JK Lakshmipat University**, passionate about solving realtime problems. 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+scalable+backend+systems;Contributing+to+open+source;Exploring+AI-driven+development" alt="Typing SVG" />
+</p> -->
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,docker,aws,typescript,nodejs,cpp&theme=dark" />
+</p>
 
-### 🌐 Connect with Me
 <p align="left">
-  <a href="https://dihruv.me" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/dhruvsharmaa14" target="_blank">LinkedIn</a> •
-  <a href="https://peerlist.io/dhruvsharma" target="_blank">Peerlist</a> •
-  <a href="https://x.com/dhruvshxrmaa" target="_blank">X</a>
+  Focused on backend architecture, databases, and system design.<br/>
+  Open to collaborating on open-source projects in backend engineering and applied AI.
 </p>
 
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" />
+<p align="left">
+  <a href="https://linkedin.com/in/dhruvsharmaa14"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruv.sharma122004@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1SdLAOyati9rMjoxcMe5JeqyKrDvkju7q/view" target="_blank"><img src="https://img.shields.io/badge/-Resume-informational?style=flat&logo=readthedocs&logoColor=white&color=2E9EF7" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv14122004&show_icons=true&theme=react&hide_border=true" width="390" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv14122004&layout=compact&theme=react&hide_border=true" width="390" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv14122004&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruv14122004&color=blueviolet&style=flat-square" />
-</p>
-
-<p align="center">✨ Thanks for visiting! ✨</p>
