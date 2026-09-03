@@ -17,5 +17,5 @@
 <p align="left">
   <a href="https://linkedin.com/in/dhruvsharmaa14"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruv.sharma122004@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1SdLAOyati9rMjoxcMe5JeqyKrDvkju7q/view" target="_blank"><img src="https://img.shields.io/badge/-Resume-informational?style=flat&logo=readthedocs&logoColor=white&color=2E9EF7" /></a>
+  <a href="https://drive.google.com/file/d/1QyXY5S2z2nlEMdxQx3cfPyckYTr-ssmP/view" target="_blank"><img src="https://img.shields.io/badge/-Resume-informational?style=flat&logo=readthedocs&logoColor=white&color=2E9EF7" /></a>
 </p>
