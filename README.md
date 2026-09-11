@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+scalable+backend+systems;Contributing+to+open+source;Exploring+AI-driven+development" alt="Typing SVG" />
 </p> -->
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,redis,docker,aws,typescript,nodejs,cpp&theme=dark" />
-</p>
+</p> -->
 
 <p align="left">
   Focused on backend architecture, databases, and system design.<br/>
